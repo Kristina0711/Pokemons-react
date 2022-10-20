@@ -1,0 +1,10 @@
+.list_pokemon{
+    width: 50%;
+}
+
+.title {
+    text-align: center;
+    color: #000;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
